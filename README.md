@@ -1,2 +1,5 @@
 # Diagnosis-of-Parkinson-s-Disease-via-Speech-Analysis
 python KNN, Decision Tree and Naïve Bayes
+This project proposes a methodology to detect early signs of Parkinson’s disease (PD) through free-speech in uncontrolled background conditions. The early detection mechanism uses signal and speech processing techniques integrated with machine learning algorithms. There is no single test which can be administered for diagnosis of Parkinson's Disease. Instead, doctors must perform a careful clinical analysis of the patient’s medical history. Unfortunately, this method of diagnosis is highly inaccurate. Because of these difficulties, I investigate a machine learning approach to accurately diagnose Parkinson’s, using a dataset of various speech features. Why speech features? Speech is very predictive and characteristic of Parkinson’s disease; almost every Parkinson’s patient experiences severe vocal degradation.
+
+Here KNN, Decision Tree and Naive Bayes are used to find the best accurate classifier Model for Diagnosis of Parkinson's Disease
